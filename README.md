@@ -164,5 +164,3 @@ postgres=# \set transaction isolation level repeatable read;
 
 Новая запись появилась, т.к. транзакция завершена и можно получить доступ к обновлённым данным.
 
-
-
